@@ -3,4 +3,6 @@
 Code for the paper "Determination of output composition in
 reaction-advection-diffusion systems on network reactors".
 
-See notebooks to reproduce results in paper. The 'Examples.ipynb' notebook has examples of using the solver to solve the output composition problem for various graphs. The 'Figure 3 Network Plots.ipynb' notebook has the code to reproduce the plots in the paper.
+See notebooks to reproduce results in paper. 
+- 'Examples.ipynb': explains how to use the code to solve the output composition problem and provides examples of using the solver to solve the output composition problem for various graphs.
+- 'Figure 3 Network Plots.ipynb': has the code to reproduce the plots in the paper.
